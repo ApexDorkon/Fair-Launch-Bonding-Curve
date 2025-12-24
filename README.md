@@ -75,3 +75,10 @@ When the **Graduation Threshold** (default 90%) is reached:
 ### Compile
 ```bash
 npx hardhat compile
+```
+### test
+```bash
+npx hardhat test
+```
+## 📜 License
+Released under the MIT License.
